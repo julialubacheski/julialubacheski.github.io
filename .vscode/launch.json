@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "chrome",
+            "name": "https://julialubacheski.github.io/",
+            "request": "launch",
+            "url": "https://julialubacheski.github.io/"
+        }
+    ]
+}
